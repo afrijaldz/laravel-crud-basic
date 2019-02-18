@@ -1,0 +1,5 @@
+Database: Library
+  Table: Books
+    - title
+    - author
+    - year
